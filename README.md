@@ -5,7 +5,6 @@
 -  **Aprendendo :** Docker, SQL, Node   
 -  **Linguagens :** JavaScript
 -  **Hobbies :** Jogar videogame, Praticar calistenia:
--  **Contato :** <a href="mailto:felipebarboza5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
@@ -26,3 +25,4 @@
 <div> 
   <a href="https://www.instagram.com/felipebarboza_5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipebarboza26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:felipebarboza5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>

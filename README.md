@@ -1,4 +1,4 @@
-<h2> Olá Mundo! Eu me chamo Felipe e sou desenvolvedor Front-end.</h2>
+<h2> Olá! Eu me chamo Felipe e sou desenvolvedor Front-end.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h3>
 

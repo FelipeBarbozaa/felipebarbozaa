@@ -20,7 +20,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbozaa&layout=compact&langs_count=7&theme=omni"/>
 </div>
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/felipebarboza_5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipebarboza26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:felipebarboza5@gmail.com"><img alt="Email" width="300" src="https://img.shields.io/badge/Email-felipebarboza5@gmail.com-blue?style=flat-square&logo=gmail"></a>

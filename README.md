@@ -5,7 +5,7 @@
 -  **Aprendendo :** Docker, SQL, Node   
 -  **Linguagens :** JavaScript
 -  **Hobbies :** Jogar videogame, Praticar calistenia:
--  **Contato :** [WangNingkai](mailto:i@ningkai.wang)
+-  **Contato :** [Email](mailto:felipebarboza5@gmail.com)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <div align="center">

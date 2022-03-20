@@ -14,7 +14,7 @@
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://miro.medium.com/max/496/0*RfTXIdj0OMqSiDwC">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/octopus_1f419.png">
 
 
 </div>

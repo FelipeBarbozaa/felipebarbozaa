@@ -5,8 +5,9 @@
 -  **Aprendendo :** Docker, SQL, Node   
 -  **Linguagens :** JavaScript
 -  **Hobbies :** Jogar videogame, Praticar calistenia:
--  **Contato :** [Email](mailto:felipebarboza5@gmail.com)
+-  **Contato :** <a href="mailto:felipebarboza5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 <div align="center">
   <a href="https://github.com/felipebarbozaa">

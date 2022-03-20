@@ -4,7 +4,7 @@
 
 -  **Aprendendo :** Docker, SQL, Node   
 -  **Linguagens :** JavaScript
--  **Hobbies :** Jogar videogame, Praticar calistenia:
+-  **Hobbies :** Jogar 🎮 | Corrida 🏃 | Calistenia 💪
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 

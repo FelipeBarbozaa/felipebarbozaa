@@ -1,5 +1,5 @@
-<h2> Olá! Eu me chamo Felipe e sou desenvolvedor Front-end.<br>
-Sou estudante da Trybe e atualmente estou no módulo de back-end</h2>
+<h3> Olá! Eu me chamo Felipe e sou desenvolvedor Front-end.<br>
+Sou estudante da Trybe e atualmente estou no módulo de back-end</h3>
 
 <h3> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h3>
 

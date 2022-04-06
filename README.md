@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h3>
 
 -  **Aprendendo :** Docker, SQL, Node   
--  **Linguagens :** JavaScript
 -  **Hobbies :** Jogar 🎮 | Corrida 🏃 | Calistenia 💪
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 <div style="display: inline_block"><br>

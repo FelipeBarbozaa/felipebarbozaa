@@ -1,4 +1,4 @@
-<h3> Olá! Eu me chamo Felipe! Sou desenvolvedor Front-end e estudante da Trybe onde atualmente estou no módulo de back-end</h3>
+<h3> Olá! Eu me chamo Felipe, sou desenvolvedor Front-end e estudante da Trybe onde atualmente estou no módulo de back-end</h3>
 
 <h3> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h3>
 

@@ -1,19 +1,46 @@
-<h3> Olá! Eu me chamo Felipe, sou desenvolvedor Front-end e estudante da Trybe onde atualmente estou no módulo de back-end</h3>
+# Olá, sejá bem-vindo(a) ao meu GitHub
 
-<h3> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h3>
-
--  **Aprendendo :** Docker, SQL, Node   
--  **Hobbies :** Jogar 🎮 | Corrida 🏃 | Calistenia 💪
+- Desenvolvedor Web FullStack
+- Sempre em busca de novos conhecimentos
+- Atualmente estou aprendendo AWS
+  
 <h3> 🛠 &nbsp;Linguagens e Ferramentas</h3>
 <div style="display: inline_block"><br>
-  <img title="JavaScript" align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="HTML5" align="center" alt="Felipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img title="CSS3" align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img title="JavaScript" align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img title="React" align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img title="Redux" align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  
   <img title="Git" align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img title="Jest" align="center" alt="Felipe-CSS" height="40" width="50" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
+  
   <img title="Reacting Testing Library" align="center" alt="Felipe-CSS" height="40" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/octopus_1f419.png">
+  
+  <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+  
+  <img title="TypeScript" align="center" alt="TypeScript" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+  
+  <img title="Node" align="center" alt="Node" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+  
+  <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+  
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+
+    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
 
 
 </div>

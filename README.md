@@ -42,7 +42,7 @@
 
    <img title="MongoDB" align="center" alt="MongoDB" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
   
-   <img title="Railway" align="center" alt="Railway" heiht="40" width="50" src="https://railway.app/brand/logo-dark.svg" />
+   <img title="Railway" align="center" alt="Railway" heiht="40" width="50" src="https://camo.githubusercontent.com/df61f4b2e2cc40922b5290ed53040485ab7167836872ce1aa88d88462e9816ce/68747470733a2f2f7261696c7761792e6170702f6272616e642f6c6f676f2d6c696768742e706e67" />
 
    <img title="Vercel" align="center" alt="Vercel" heiht="40" width="50" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/vercel-deploy.png?itok=AyGlptNc" />
 

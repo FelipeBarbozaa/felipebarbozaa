@@ -24,23 +24,28 @@
   
   <img title="TypeScript" align="center" alt="TypeScript" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
   
-  <img title="Node" align="center" alt="Node" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img title="Node" align="center" alt="Node" heiht="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
   
-  <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+  <img title="Python" align="center" alt="Python" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="Docker" align="center" alt="Docker" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="Sequelize" align="center" alt="Sequelize" heiht="90" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="Mocha" align="center" alt="Mocha" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="Chai" align="center" alt="Chai" heiht="40" width="50" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="Sinon" align="center" alt="Sinon" heiht="40" width="50" src="https://sinonjs.org/assets/images/logo.png" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="MySQL" align="center" alt="MySQL" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 
-    <img title="Jest" align="center" alt="Jest" heiht="40" width="50" src="" />
+   <img title="MongoDB" align="center" alt="MongoDB" heiht="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  
+   <img title="Railway" align="center" alt="Railway" heiht="40" width="50" src="https://railway.app/brand/logo-dark.svg" />
+
+   <img title="Vercel" align="center" alt="Vercel" heiht="40" width="50" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/vercel-deploy.png?itok=AyGlptNc" />
+
 
 
 </div>
